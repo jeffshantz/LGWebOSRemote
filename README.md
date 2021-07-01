@@ -15,7 +15,7 @@ Command line webOS remote for LGTVs. This tool uses a connection via websockets 
   * OLED55CXAUA
   * OLED65B9PUA
   * SK8500PLA
-  * SM9010PLA  
+  * SM9010PLA
   * UF776V
   * UF830V
   * UH650V
